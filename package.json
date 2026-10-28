@@ -1,0 +1,9 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium responsive weather dashboard with server-side WeatherAPI proxy",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
